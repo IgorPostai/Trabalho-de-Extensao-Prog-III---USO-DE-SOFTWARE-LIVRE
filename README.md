@@ -1,7 +1,3 @@
-Ótima ideia. Para um repositório sobre **Conscientização e Uso de Software Livre**, recomendo organizar tudo em categorias, com uma breve descrição, vantagens e link oficial. Isso deixa o projeto mais profissional e útil para alunos e professores.
-
-Você pode criar um `README.md` assim:
-
 # 🐧 Uso de Software Livre
 
 ## 📚 Projeto de Extensão – Programação III
