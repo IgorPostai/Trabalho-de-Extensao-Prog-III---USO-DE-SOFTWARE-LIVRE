@@ -2,7 +2,7 @@
 
 ## 📚 Projeto de Extensão – Programação III
 
-Este projeto tem como objetivo conscientizar sobre a importância do Software Livre, apresentando alternativas gratuitas, seguras e colaborativas para uso no dia a dia.
+O seguinte projeto desenvolvido por Gabriel Ribeiro Santos, Igor Postai Contezini, Jonatan Herman e Lucas da Silva, tem como objetivo conscientizar sobre a importância do Uso de Software Livre, apresentando alternativas gratuitas, seguras e colaborativas para uso no dia a dia.
 
 ---
 
@@ -357,5 +357,3 @@ Crie também uma seção chamada **"Alternativas ao Software Proprietário"**:
 | WinRAR           | 7-Zip          |
 | Chrome           | Firefox        |
 | OneNote          | Joplin         |
-
-Essa tabela costuma chamar bastante atenção em projetos de extensão e apresentações para escolas.
