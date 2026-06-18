@@ -96,7 +96,7 @@ Versão focada em privacidade do Firefox.
 
 ---
 
-# 📝 Suíte de Escritório
+# 📝 Escritório
 
 ## LibreOffice
 
