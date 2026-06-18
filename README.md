@@ -341,9 +341,7 @@ Sistema de ensino utilizado por universidades do mundo inteiro.
 
 ---
 
-### Sugestão extra
-
-Crie também uma seção chamada **"Alternativas ao Software Proprietário"**:
+# 🔓 Alternativas ao Software Proprietário:
 
 | Proprietário     | Software Livre |
 | ---------------- | -------------- |
