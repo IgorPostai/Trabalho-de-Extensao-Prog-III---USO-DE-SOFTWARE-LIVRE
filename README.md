@@ -1,5 +1,3 @@
-<div translate="no" class="notranslate">
-
 # 🐧 Uso de Software Livre
 
 ## 📚 Projeto de Extensão – Programação III
@@ -357,5 +355,3 @@ Sistema de ensino utilizado por universidades do mundo inteiro.
 | WinRAR           | 7-Zip          |
 | Chrome           | Firefox        |
 | OneNote          | Joplin         |
-
-</div>
