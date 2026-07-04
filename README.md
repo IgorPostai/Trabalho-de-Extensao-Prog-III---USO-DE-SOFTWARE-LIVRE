@@ -2,7 +2,7 @@
 
 ## 📚 Projeto de Extensão
 
-O seguinte projeto tem como objetivo conscientizar sobre a importância do Uso de Software Livre, apresentando alternativas gratuitas, seguras e colaborativas para uso no dia a dia.
+O seguinte projeto desenvolvido por Gabriel Ribeiro Santos, Igor Postai Contezini, Jonatan Herman e Lucas da Silva, tem como objetivo conscientizar sobre a importância do Uso de Software Livre, apresentando alternativas gratuitas, seguras e colaborativas para uso no dia a dia.
 
 ---
 
